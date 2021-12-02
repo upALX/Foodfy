@@ -5,3 +5,4 @@
 
 
 # :closed_book: License
+This project use the [MIT LICENSE](https://opensource.org/licenses/MIT).
